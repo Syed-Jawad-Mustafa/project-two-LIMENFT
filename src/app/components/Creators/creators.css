@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Work+Sans:wght@300;400;500&display=swap");
+
+.bg{
+    background-color: #2B2B2B;
+}
+.number{
+    background-color: #2B2B2B;
+    color: #858584;
+}
+.cards{
+    background-color: #3B3B3B;
+}
+.total{
+    color: #858584;
+
+}
+.text-heading{
+    font-family: 'Rubik Mono One';
+    font-weight: 600;
+    font-size: 40px;
+}
+.margen-row{
+    margin-top: 25px;
+}
+@media (max-width: 768px) {
+    .cards-margin{
+        margin-bottom: 30px;
+        width: 400px;
+    }
+    .rocket{
+        margin-right: 60px;
+    }
+}

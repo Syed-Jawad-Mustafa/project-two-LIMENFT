@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Work+Sans:wght@300;400;500&display=swap");
+
+.header-margin{
+  padding-left: 32rem;
+  gap: 38px;
+}
+.bg{
+    background-color: #2B2B2B;
+}
+ul li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+ul li a.active {
+  color: #000;
+}
+
+.signup-btn {
+  background-color: #d7ef43;
+  color: black;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  padding: 16px 25px 16px 25px;
+  border: none;
+  
+
+}
+.decoration{
+  text-decoration: none;
+  color: black;
+}
+@media (max-width: 768px) {
+    .header-margin{
+      padding-top: 2rem;
+    padding-left: 2rem;
+    gap: 50px;
+  }
+  .signup-btn {
+    background-color: #d7ef43;
+    color: #000000;
+    padding: 5px;
+    border: none;
+    padding: 5px 15px;
+    margin: 12px 85px 0 3%;
+    text-decoration: none;  
+  }
+}

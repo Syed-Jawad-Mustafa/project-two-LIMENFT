@@ -1,0 +1,51 @@
+.image-bg {
+  width: 100%;
+}
+.time-bg-color {
+  background-color: #2b2b2b99;
+  opacity: 60%;
+}
+.set-position {
+  position: absolute;
+  right: 5rem;
+  bottom: 3rem;
+}
+.first-position {
+  position: absolute;
+  left: 7rem;
+  bottom: 5rem;
+}
+
+.neon-button {
+  border: solid 1px #d7ef43;
+  padding: 10px 50px;
+  background-color: #2b2b2b;
+  
+}
+@media (max-width: 768px) {
+  .first-position {
+    position: absolute;
+    left: 0rem;
+    bottom: 1rem;
+    font-size: 15px;
+  }
+
+  .set-position {
+    position: absolute;
+    right: 0.5rem;
+    bottom: 0rem;
+  }
+
+  .heading {
+    font-size: 15px;
+  }
+
+  .btn {
+    font-size: 15px;
+    padding: 5px 0;
+  }
+
+  .set-position .size,h1 {
+    font-size: 8px;
+  }
+}

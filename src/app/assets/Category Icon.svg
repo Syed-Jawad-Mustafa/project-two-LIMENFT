@@ -1,0 +1,19 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Category Icon" filter="url(#filter0_b_248_4328)">
+<path d="M0 20C0 8.9543 8.95431 0 20 0H220C231.046 0 240 8.95431 240 20V240H0V20Z" fill="white" fill-opacity="0.1" style="fill:white;fill:white;fill-opacity:0.1;"/>
+<g id="Swatches">
+<path id="Vector" d="M84.3358 137.578L93.7889 84.0232C93.855 83.619 94.0008 83.232 94.218 82.8848C94.4352 82.5375 94.7193 82.237 95.0538 82.0006C95.3882 81.7643 95.7664 81.5969 96.1663 81.5083C96.5661 81.4196 96.9796 81.4114 97.3827 81.4841L118.945 85.2732C119.76 85.4255 120.482 85.8914 120.957 86.5708C121.432 87.2501 121.621 88.0886 121.484 88.906L111.992 142.773C111.342 146.4 109.298 149.629 106.297 151.768C103.297 153.907 99.5782 154.787 95.9373 154.219C88.1639 152.969 82.9686 145.351 84.3358 137.578Z" stroke="white" style="stroke:white;stroke:white;stroke-opacity:1;" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M116.21 118.75L144.686 108.399C145.073 108.256 145.485 108.191 145.897 108.208C146.31 108.225 146.715 108.323 147.089 108.498C147.463 108.672 147.799 108.919 148.077 109.223C148.355 109.528 148.57 109.885 148.71 110.274L156.21 130.82C156.486 131.598 156.444 132.453 156.093 133.199C155.742 133.945 155.11 134.523 154.335 134.805L102.928 153.516" stroke="white" style="stroke:white;stroke:white;stroke-opacity:1;" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M155.938 133.477V151.25C155.938 152.079 155.608 152.874 155.022 153.46C154.436 154.046 153.641 154.375 152.812 154.375H98.125" stroke="white" style="stroke:white;stroke:white;stroke-opacity:1;" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M98.125 145C100.714 145 102.812 142.901 102.812 140.312C102.812 137.724 100.714 135.625 98.125 135.625C95.5362 135.625 93.4375 137.724 93.4375 140.312C93.4375 142.901 95.5362 145 98.125 145Z" fill="white" style="fill:white;fill:white;fill-opacity:1;"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_b_248_4328" x="-15" y="-15" width="270" height="270" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="7.5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_248_4328"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_248_4328" result="shape"/>
+</filter>
+</defs>
+</svg>

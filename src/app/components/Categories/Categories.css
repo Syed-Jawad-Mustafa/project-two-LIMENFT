@@ -1,0 +1,22 @@
+.card-bg-color{
+    background-color: #2B2B2B;
+}
+.card-body-css{
+background-color: #3B3B3B;
+margin: 0px 10px;
+color: white;
+border-radius: 0px 0px 20px 20px;
+
+}
+.card{
+    border: none;
+}
+
+@media (max-width: 768px) {
+    .card-body{
+        background-color: #3B3B3B;
+        margin: 0px 61px;
+        color: white;
+        border-radius: 0px 0px 10px 10px;
+        }
+}

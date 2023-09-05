@@ -1,0 +1,21 @@
+
+.astro-bg-color{
+    background-color: #3B3B3B;
+}
+.font-text{
+    font-size: 25px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+}
+.round-input{
+    border-top-left-radius: 17px;
+    border-bottom-left-radius: 17px;
+    padding: 10px 10px;
+    border: none;
+}
+.subs-btn{
+    padding: 10px 10px;
+    background-color: #D7EF43;
+    border-radius: 17px;
+    border: none;
+}

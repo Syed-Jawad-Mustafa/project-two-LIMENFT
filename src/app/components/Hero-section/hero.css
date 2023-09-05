@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Work+Sans:wght@300;400;500&display=swap");
+.hero-font{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-weight: 700;
+    font-size: 55px; 
+    
+}
+.pera{
+        font-size: 20px;
+        font-family: 'Work Sans', sans-serif;
+        font-weight: 200;
+    
+}
+.staticsNum{
+    font-size: 32px;
+}
+.statics{
+    font-size: 20px;
+}
+.hero-image{
+    align-items: center;
+}
+.card-bg-color{
+background-color: #2B2B2B;
+border: solid 2px #3B3B3B;
+}
+.card-body{
+    background-color: #3B3B3B;
+margin: 0px 8px;
+color: white;
+border-radius: 0px 0px 20px 20px;
+}
+.nft-color{
+    color:#d7ef43;
+    
+}
+.border-color{
+     
+    background-color:#2B2B2B  ;
+    
+}
+.explore-btn{
+    background-color: #d7ef43;
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 25px;
+    border: none;
+    padding: 14px 35px;
+    
+}
+@media (max-width: 768px) {
+        .staticsNum{
+            font-size: 27px;
+        }
+    }

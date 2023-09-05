@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Work+Sans:wght@300;400;500&display=swap");
+
+.discover-bg-color{
+    background-color: #3B3B3B;
+}
+.price-text{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 200;
+    color: #858584;
+    font-size: 13px;
+}
+.text-second-heading{
+    font-size: 23px;
+    font-weight: 300;
+}
+.see-btn{
+    border: solid 2px #D7EF43;
+    padding: 13px 45px;
+    background-color:  #2B2B2B;
+    
+}
+
+@media (max-width: 768px) {
+    .see-btn{
+        margin-right: 90px;
+    }
+}

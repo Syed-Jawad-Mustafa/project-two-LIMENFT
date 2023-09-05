@@ -1,0 +1,9 @@
+.bg{
+    background-color: #2B2B2B;
+}
+
+@media (max-width: 768px) {
+    .text{
+        text-align: center;
+    }    
+}
